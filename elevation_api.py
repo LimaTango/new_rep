@@ -1,3 +1,6 @@
+__author__ = 'tai'
+
+
 import simplejson
 import urllib
 
